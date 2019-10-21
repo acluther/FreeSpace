@@ -464,3 +464,5 @@ The math co-processor had an overflow error that leaked out and shorted the RAM
 Leap second overloaded RHEL6 servers
 DNS server drank too much and had a hiccup
 Your machine had the fuses in backwards.
+Error between keyboard and chair.
+++?????++ Out of Cheese Error. Redo From Start.
